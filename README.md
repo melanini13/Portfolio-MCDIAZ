@@ -1,6 +1,9 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # About me
+
+<img width="150" alt="image" src="https://github.com/melanini13/Portfolio-MCDIAZ/assets/156854497/e2ba4cdc-bcd1-460a-9a37-5ca386ec4ee4">
+
 Hello, world! My name is Melanie, and my pronouns are she/her/hers. I am a second-year student in the MS in Public Policy and Management Flagship program at Carnegie Mellon University. After earning a BS in English and a BS in Global Studies at Carnegie Mellon University back in 2017, I worked in the educational field for five years. Through the Fulbright Teaching Assistant program, I spent two years in Spain, teaching various subjects for Grades K-12. Via Teach for America, I spent the following 3 years teaching English Language Arts (ELA, Grades 9-10) and English Language Development (ELD, Grades 9-12) in my hometown of Los Angeles, CA. During my third year of teaching, I simultaneously served as the school's ELD Coordinator, overseeing the reclassification goals of 80 students. It was through my professional experiences as an educator and coordinator that I first developed my skills of project management, data analysis, and community engagement. By further developing these skills through my graduate coursework, I was able to secure the position of Strategy Advisor Summer Associate at Deloitte. Post-graduation, I look forward to returning to Deloitte as a Strategy Consultant in the Government and Public Services (GPS) practice. Outside of my academic and professional goals, you can usually find me reading, doodling, or researching flights to new destinations. 
 
 # What I hope to learn
