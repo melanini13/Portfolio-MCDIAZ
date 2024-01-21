@@ -1,105 +1,29 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello, world! My name is Melanie, and my pronouns are she/her/hers. I am a second-year student in the MS in Public Policy and Management Flagship program at Carnegie Mellon University. After earning a BS in English and a BS in Global Studies at Carnegie Mellon University back in 2017, I worked in the educational field for five years. Through the Fulbright Teaching Assistant program, I spent two years in Spain, teaching various subjects for Grades K-12. Via Teach for America, I spent the following 3 years teaching English Language Arts (ELA, Grades 9-10) and English Language Development (ELD, Grades 9-12) in my hometown of Los Angeles, CA. During my third year of teaching, I simultaenously served as the school site's ELD Coorindator. It was through my professional experiences as an educator and coordinator that I was able to first develop my skills of project management, data analysis, and community engagement. By further developing these skills through my graduate coursework, I was able to secure the position of Strategy Advisor Summer Associate at Deloitte. Post-graduation, I look forward to returning to Deloitte as a Strategy Consultant in the Government and Public Services (GPS) practice. Outside of my academic and professional goals, you can usually find me reading, doodling, or researching flights to new destinations. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+During the Spring 2024 semester of Telling Stories with Data (94470), I am interested in learning how to:
 
-1. List item #1
-2. List item #2
-3. List item #3
+- ***Give a true voice to the data***
+  I feel that my past academic experience has focused on finding data to fit a preconceived narrative, which hasn't always led to a complete (or true/correct) portrayal of the data. Therefore, I hope that this course will help me develop an objective stance so that the data can drive the narrative.
+  
+- ***Reduce the distractions/noise in the data visualizations that I create***
+  In both my educational and consulting experience, I found it very difficult to create effective, stand-alone data visualizations. I want to make my charts/diagrams more accessible so that audiences can independently interpret the story that I am trying to tell.
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
+Moving forward, these skills will play a pivotal role in my professional work as a GPS Strategy Consultant. The clients that we work with rely on us to provide an objective interpretation of data that will go on to affect the lives of real people. Hence, I need to be certain that I am conveying the truth within the data and not twisting it to fit pre-conceived notions -- a malpractice that can actually harm the people that we are attempting to help.  Furthermore, my experience as a Summer Associate taught me that oftentimes my data visualizations will be presented to clients in the form of an emailed slide deck rather than a verbal presentation. Therefore, it is vital that I learn to make effective graphics so that my clients' independent interpretation aligns with the story that I aim to convey.
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
+## Final project: 
+A high-level description of your final project will be added here soon. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
-
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
-
-### Changing text
-
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
-
-### Creating tables
-
-You can build tables like this: 
-
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
-
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
-
-### Setting up a separate page
-
-So here's the code you'll need to add to your own site to create a second page. 
-
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
-
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
-
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
+[Part III](final-project-part-three)
