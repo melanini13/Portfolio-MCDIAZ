@@ -29,3 +29,7 @@ Thus, contrary to what my classmates believed, the "PIGS" were not experiencing 
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+In this section, I've represented the OECD Data on government debt via a heat map with an orange-blue diverging color-scheme. The darkest shades of orange being the highest government debt and the darkest shades of blue being the lowest government debt. They converage at the middle with shades of grey representing middle levels of debt. 
+
+It's important to note that Colombia was filtered out as there wasn't any data rendered over this time period. Also, the source and citation were added as a subtitle as I couldn't figure out how to add in a new text box on Tableau. I would have liked to place the Source and Citation below the chart, but I notice that the OECD chart that was exported also contained the source at the top of the chart. For this reason, I'm now thinking that it might be better to place the source/citation information between the title and the chart so that it is less likelt to be lost in a screenshot as the user would likely require the title as well.
