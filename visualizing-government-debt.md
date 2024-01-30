@@ -2,9 +2,21 @@
 
 # Visualizing Government Debt
 
-## How Have the EU Countries with the Greatest Government Debt Faired Since the Covid-19 Outbreak?
+As part of this assignment, we were asked to visualize government debt as a bar graph. My initial bar graph can be found here: [Government Debt as a Bar Graph](https://data.oecd.org/chart/7kr6)
 
-<iframe src="https://data.oecd.org/chart/7kgt" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kgt" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019 – 2022</a></iframe>
+However, I was interested in exploring the data more in-depth to tell a different story, and this led me to rendering the data via a line graph instead. 
+
+## How Have the EU Countries with the Greatest Government Debt Faired Since the Covid 19 Outbreak?
+
+<iframe src="https://data.oecd.org/chart/7kr7" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kr7" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019 – 2022</a></iframe>
+
+AP European History class is the first time that I heard the derogatroy acronym "PIGS" to discuss the EU countries with the highest government debt after the 2008 economic crisis: Portugal, Italy, Greece, and Spain. At the time, I didn't give this economic term much thought, and it would be years before I heard this term again. This past semester, I completed a study abroad program in Milan, Italy. It was here that I heard a group of international students talking about how they believed that the "PIGS" would continue to see rising levels of debt as a consequence of Covid-19 and that this ever-increasing debt would place higher burdens on other EU Member States. So, when I saw the OECD data on government debt, I thought to examine my classmates' assumption. Were they correct or were they just reiterating a negative stereotype that they've also been taught? 
+
+To tell this story, I changed the timespan to include the years 2019-2022 (as opposed to just the latest year of available data, which would render a bar graph). Then, I decided to filter the data to only include countries from the European Union (as this was the key region of focus), and I highlighted the data from Portugal, Italy, Greece, and Spain to better draw attention to their trendlines. I also made the decision to remove the OECD baseline as it didn't feel necessary and I didn't want to distract the viewer's eye.
+
+From this line graph, we see that it is true that these countries did have the highest debt at the start of the Covid-19 pandemic and that they continue to have the highest debt by the end. However, their trend didn't necessarily differ from that of other EU countries. All countries seem to face a rise in government debt from 2019 to 2020 at the height of the pandemic. However, all countries also see a decline in government debt from 2020 onward. Portugal, Italy, Greece, and Spain are no exception. 
+
+Thus, contrary to what my classmates believed, the "PIGS" were not experiencing an economic hardship that was any different than the rest of the EU as a result of Covid-19. In fact, their trent was very similar to the rest of the EU. So, while these countries do have the highest levels of debt, that factor did not lead them to have additional economic struggles during the pandemic. My classmates' narrative was not seen in the data. Now, we can only hope that one day they'll come across this chart and learn a different (and data-based) story than the one they've been telling.
 
 # Government Debt by Country, 1995 - 2019
 
