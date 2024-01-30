@@ -24,8 +24,6 @@ Thus, contrary to what my classmates believed, the "PIGS" were not experiencing 
 
 ## Highlight Table
 
-### Government Debt by Country, 1995 - 2019
-
 <div class='tableauPlaceholder' id='viz1706404849027' style='position: relative'><noscript><a href='#'><img alt='Government Debt by Country, 1995 - 2019Source: OECD DataCitation: OECD (2024), General government debt (indicator). doi: 10.1787&#47;a0528cc2-en (Accessed on 26 January 2024) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GovernmentDebtbyCountry1995-2019&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GovernmentDebtbyCountry1995-2019&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GovernmentDebtbyCountry1995-2019&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1706404849027');
@@ -36,6 +34,7 @@ Thus, contrary to what my classmates believed, the "PIGS" were not experiencing 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+<br />
 
 In this section, I've represented the OECD Data on government debt via a highlight table with an orange-blue diverging color-scheme. The darkest shades of orange being the highest government debt and the darkest shades of blue being the lowest government debt. They converage at the middle with shades of grey representing middle levels of debt. 
 
@@ -53,3 +52,4 @@ It's important to note that Colombia was filtered out as there wasn't any data r
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+<br />
