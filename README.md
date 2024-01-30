@@ -22,15 +22,13 @@ Moving forward, these skills will play a pivotal role in my professional work as
 
 # Portfolio
 
-*Please note that this section currently previews assignment placeholders; actual assignments will be uploaded soon.
-
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+(This assignment is still in progress. It will be added soon.) 
 
 ## Final project: 
-A high-level description of your final project will be added here soon. 
+(This assignment is still in progress. A high-level description of my final project will be added here soon.) 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
