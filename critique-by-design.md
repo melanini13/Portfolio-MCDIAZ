@@ -53,6 +53,17 @@ With these two recommendations in mind, I decided to utilize Tableau for the fir
 
 ## Step 4: Test the Solution
 
-
+| &nbsp; | Grad Student in Info Security Policy, 26 | Title I Coordinator at K-5 School, 54 |
+|     :---:    |     :---:      |      :---:    |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 ## Step 5: Build the Re-design
