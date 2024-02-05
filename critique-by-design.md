@@ -10,7 +10,6 @@ I selected the visualization ["The Cost of 1GB of Mobile Data in Every Country?"
 
 ![Image Alt text](VC-Mobile-Data_V3.jpeg)
 
-<br />
 
 Having spent a substantial amount of time abroad in Spain and Italy, I was interested in the subject of this data visualization. When I lived in Spain (2017-2019), I was paying 15 euros (about 16 USD) a month for a phone plan with 10GB of data. However, when I recently lived in Italy (2022), I was paying 12 euros (about 12 USD) a month for 150GB of data. Personally, I was shocked by the stark difference and I've been wondering about the cost of mobile data ever since. Hence, I was instantly interested in this data visualization. (And imagine my surprise when one of the call-out boxes listed Italy as one of the 5 least expensive countries for 1GB!)
 
@@ -20,7 +19,7 @@ For this critique, we utilized Stephen Few's [Data Visualization Effectiveness P
 
 Here is how I scored the data visualization along each of the seven criteria: 
 
-![Image Alt text](FewCriteriaScoring.png)
+![Image Alt text](Few Criteria Scoring.png)
 
 **Overall Observations:** While ranked high in the area of usefulness, this visualization was too cluttered and not intuitive enough to gain it high scores in other areas. I think this data was useful amongst a wide audience (e.g., consumers, tech companies, and policymakers), especially in 2020 when the pandemic highlighted disparities compounding the tech gap crisis. The second-highest ranking was in the area of truthfulness as it seems that the size differences were representative of the price differences (e.g., the size of Benin and Malawi isn’t very different and neither are their prices). However, the fact that the majority of the country data was under $5 made it very difficult to determine if they were well-positioned. Furthermore, forcing the audience to compare sizes is difficult and decreases perceptibility and clarity. It was hard to 1) tell the difference between similar-sized countries (especially without price/country labels), 2) locate countries, or 3) track regional trends. The use of flags as icons was also not very intuitive as viewers unlikely know the flag for each country. The things that worked really well were actually the callout boxes and captions as I felt that they highlighted some of the data’s main points (e.g., least/most expensive countries, regional trends, and disparity levels). Also, the size key and the y-axis labels were helpful (and necessary) in contextualizing how much 1GB cost in each country.
 
