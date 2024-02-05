@@ -53,6 +53,7 @@ With these two recommendations in mind, I decided to utilize Tableau for the fir
 
 ## Step 4: Test the Solution
 
+### Interviews: 
 
 | &nbsp; | Grad Student in Info Security Policy, 26 | Title I Coordinator at K-5 School, 54 |
 |     :---:      |     :---:      |      :---:    |
@@ -67,6 +68,8 @@ With these two recommendations in mind, I decided to utilize Tableau for the fir
 | What are your thoughts about the key? | I know what the dark green and the dark red are, but I don't know what the middle values are. I can understand relationally, and I could probably work backwards by clicking on countries to determine a range. But, that's a lot of work and I should just have a concrete number or range. | It could be an issue. I can see that the middle of the light green has what I assume to be a half point, which is arond $13.70. But, I'm having trouble guessing what the range would be and the range is also too big for me. One light green country is $12.55, which is pretty far if the halfway range is $13.70. The provided ranges are just not informative enough. |
 | What are your thoughts about the color scheme? Would you have preferred a sequential monochromatic color scheme?  | I think I would have preferred a sequential monochromatic scale. The red-green divergence might over-exaggerate the differences, especially when the light red and light green values might not be too different. The diverging color scheme could have worked better if the middle colors had been something like yellow so it didn't look so different from either red or green. | This scale is good because it's obvious which countries are paying too much. |
 
-**Main Takeaways:** 
+### In-Class Feedback:
+
+### Main Takeaways:
 
 ## Step 5: Build the Re-design
