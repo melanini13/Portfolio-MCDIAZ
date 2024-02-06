@@ -25,16 +25,18 @@ Here is how I scored the data visualization along each of the seven criteria:
 
 **Intended Audience:** Given the aesthetic choices made, I assume that the creator intended this visualization to be for a generalized audience. It seems that the creator tried to be creative with the data to entice people who may not be familiar with the topic/data to learn more about the issue. However, I do not think that the visualization is effective because it sacrifices the informative criteria of a visualization for the emotive criteria. Any viewer, even those with more association to the topic/data would have had a difficult time identifying countries, price differences, and regional trends. So, while the audience may find it visually appealing, I do not think that they would actually engage with the data or be encouraged to learn more about the issue. So, while the information could be important for consumers, policymakers, or tech companies, it’s unlikely that it will actually result in any outcome that could resolve the tech gap created by price disparities for data.
 
-**Thoughts on The Effectiveness Profile Technique:** This critique method challenged me to think more deeply about different aspects of the visualization. Splitting elements into informative and emotive categories was also really useful for the visualization I selected because I was able to see how sometimes choosing to focus on emotive categories can come at the expense of the informative elements. When discussing his ranges for the different characteristics, Few discusses how there is more leeway for emotive elements than informative ones, and this visualization would have been more effective if the design were more familiar (e.g., a heat map or even a bar graph) – especially because the data was useful to a broad audience. I don’t think the Few critique method misses anything, but I do think it takes practice to really understand the differences between the criteria as some might seem to overlap at first. For instance, I was struggling to determine if the flag circle icons were more of a perceptibility issue or an intuitiveness issue. For instance, the size comparison was perceptibility while the flag icon was about intuitiveness; however, there is some overlap so it’s difficult to rank various criteria. 
+**Thoughts on the Effectiveness Profile Technique:** This critique method challenged me to think more deeply about different aspects of the visualization. Splitting elements into informative and emotive categories was also really useful for the visualization I selected because I was able to see how sometimes choosing to focus on emotive categories can come at the expense of the informative elements. When discussing his ranges for the different characteristics, Few discusses how there is more leeway for emotive elements than informative ones, and this visualization would have been more effective if the design were more familiar (e.g., a heat map or even a bar graph) – especially because the data was useful to a broad audience. I don’t think the Few critique method misses anything, but I do think it takes practice to really understand the differences between the criteria as some might seem to overlap at first. For instance, I was struggling to determine if the flag circle icons were more of a perceptibility issue or an intuitiveness issue. For instance, the size comparison was perceptibility while the flag icon was about intuitiveness; however, there is some overlap so it’s difficult to rank various criteria. 
 
 ## Step 3: Sketch the Redesign
 
 After critiquing the original data visualization, I had two recommendations for a redesign: 
 
-**1) change the chart type to be a map**
+**1) Change the chart type to be a map**
+<br />
 A map layout would be a more intuitive chart type for viewers. It would also present the data in a way that limits clutter and illustrates country differences and regional trends.
 
-**2) use a diverging color scheme** 
+**2) Use a diverging color scheme**
+<br />
 This change would maintain the original design's focus on the comparison between countries with the highest cost and countries with the lowest cost.
 
 With these two recommendations in mind, I decided to utilize Tableau for the first draft of my redesign. 
@@ -50,6 +52,15 @@ With these two recommendations in mind, I decided to utilize Tableau for the fir
 </script>
 
 <br />
+
+### Strengths:
+* **Chart Type:** With a map chart, I think viewers will more easily be able to locate countries and identify regional differences. The familiarity of a map also enhances perceptibility. Additionally, the interactive nature of the Tableau software would hopefully increase user engagement. 
+* **Color:** I chose a red-green divergence color scheme because I thought that the users would be accustomed to relating red to bad and green to good. In this case, higher expense was bad/red and lower expense was good/green. I was hoping that this would help illustrate the inequity and highlight which countries are most/least expensive.
+
+### Limitations:
+
+* **Key:** In this initial design, I was most bothered by the key. I'm still unsure if it's my limited experience with Tableau or a technical limitation with the Tableau software, but I was unable to group the prices into ranges. So, while I was able to change the color manually depending on my imagined range, I was unable to render a key that would provide specific ranges for the colors (e.g., dark green: $1 and below; dark red: $25 or more). Furthermore, I don't think that I added enough ranges to really show the middle prices in a way that didn't contrast their values too much. For instance, there should have been a middle range of grey.
+* **Most/Least Expensive Countries:** While this was a major point of focus in the original infographic, I don't think I captured this idea well as thre are a lot of countries represented by the lowest price range. The viewer might be able to easily understand the most expensive countries, they might not easily comprehend which countries are the least expensive. 
 
 ## Step 4: Test the Solution
 
@@ -70,6 +81,20 @@ With these two recommendations in mind, I decided to utilize Tableau for the fir
 
 ### In-Class Feedback:
 
+The following were the main changes that were discussed with my peer during the in-class feedback session: 
+
+* **Color Scheme:** It was suggested that I use a sequential, monochromatic color scale instead of the current red-green diverging pattern. In their experience, my peer was accustomed to seeing red and green denote negative and positve values, respectively. Hence, they mentioned that it didn't make sense to use this divergence in a case where all the monetary values were positive. Furthermore, they said that it was difficult to differentiate the values of the various green-shaded countries, especially since majority of the map was green.
+* **Chart Type**: They liked the map chart and said that it easily engaged viewers with the data. They also mentioned that a map allowed the user to locate countries that they are more familiar with and that they might find more interesting.
+* **Data Labels:** My peer suggested that I add data labels to highlight some data points. They felt that, as is, the map is only useful if the user was engaged and explored the map; otherwise, the user might not take much info away about any country specifically, and only notice regional trends. Knowing that I also wanted to honor the original creator's callout of most/least expensive countries, my peer also suggested using data labels only for the most/least expensive countries. 
+
 ### Main Takeaways:
+
+* **Main Ideas:** All 3 individuals interviewed seemed to have an easy time understanding that the purpose of the data visualization was to illustrate the average cost of 1GB of data in different countries. They also seemed to quickly understand that prices are inequitable, especially for several countries within the African continent -- a point that I think the creator of the original infographic was trying to illustrate as well. While the original infographic also highlighted the 5 most expensive and 5 least expensive countries, this point wasn't clear to the viewers of my chart. While they could see the most expensive countries, it was harder for them to understand which countries were least expensive as a lot of countries' data fell within the lowest range.
+* **Color:** While one individual liked the red-green divergence color scheme, the other two said they would have preferred a sequential, monochromatic pattern. The reasons for the red-green divergence was that green and red clearly showed less or more expense, respectively, and that it was a good way to indicate the inequity. The reasons against the red-green divergence was that it might overstate the difference between middle amounts and that some people might think that red indicates negative monetary values, which isn't the case with this data.
+* **Chart Type:** Everyone seemed to appreciate the map as it helped viewers identify regional trends, allowed them to easily locate specific countries, and increased user engagement. However, some complained that the map was too small and suffered from lagging/glitching.
+* **Key:** While individuals didn't initially mention anything about the key on their own, when asked about it, they did all state that it was unclear what values the colors were meant to represent. They all said that they would have preferred to know the ranges for each color instead of having to work backwards by comparing the map values to the color key. Additionally, one of the interviewers stated that the ranges for each color might be too broad for their preference.
+* **Data Labels:** One individual stated that it would be helpful to have data labels for a quick understanding of some country prices. They stated that these data labels could even be utilized to highlight countries with the least/most expensive data as the original creator likely intended.
+* **Missing/Unreliable Data:** First, countries with missing/unreliable data were greyed out but this color-coding was not explained in the key or a note. And this missing info led to confusion for one individual. Second, the chart didn't contain the name of countries for which data was missing/unreliable. Another individual said that they felt this information would still be helpful to note.
+
 
 ## Step 5: Build the Re-design
