@@ -54,19 +54,25 @@ With these two recommendations in mind, I decided to utilize Tableau for the fir
 <br />
 
 ### Strengths:
-* **Chart Type:** With a map chart, I think viewers will more easily be able to locate countries and identify regional differences. The familiarity of a map also enhances perceptibility. Additionally, the interactive nature of the Tableau software would hopefully increase user engagement. 
+* **Chart Type:** With a map chart, I think viewers will more easily be able to locate countries and identify regional differences. The familiarity of a map also enhances perceptibility. Additionally, the interactive nature of the Tableau software would hopefully increase user engagement.
+
+<br />
+
 * **Color:** I chose a red-green divergence color scheme because I thought that the users would be accustomed to relating red to bad and green to good. In this case, higher expense was bad/red and lower expense was good/green. I was hoping that this would help illustrate the inequity and highlight which countries are most/least expensive.
 
 ### Limitations:
 
 * **Key:** In this initial design, I was most bothered by the key. I'm still unsure if it's my limited experience with Tableau or a technical limitation with the Tableau software, but I was unable to group the prices into ranges. So, while I was able to change the color manually depending on my imagined range, I was unable to render a key that would provide specific ranges for the colors (e.g., dark green: $1 and below; dark red: $25 or more). Furthermore, I don't think that I added enough ranges to really show the middle prices in a way that didn't contrast their values too much. For instance, there should have been a middle range of grey.
+
+<br />
+
 * **Most/Least Expensive Countries:** While this was a major point of focus in the original infographic, I don't think I captured this idea well as thre are a lot of countries represented by the lowest price range. The viewer might be able to easily understand the most expensive countries, they might not easily comprehend which countries are the least expensive. 
 
 ## Step 4: Test the Solution
 
 ### Interviews: 
 
-| &nbsp; | Grad Student in Info Security Policy, 26 | Title I Coordinator at K-5 School, 54 |
+| &nbsp; | Grad Student in Info Security Policy, 26 | Title I Coordinator at a K-5 School, 54 |
 |     :---:      |     :---:      |      :---:    |
 | What do you think this visualization is about?   | How much 1 GB of data costs per country. | The average price of 1 GB of data in different countries. For example, it's telling me how much 1GB of data would cost if I were to go to Canada or Chad. |
 | Who do you think is the intended audience?    | The general public because it seems accessible and like it's just meant to be informative. It's also an international audience becuase otherwise it would just focus on a specific country or region. | Anybody who's interested. But, maybe it's specifically for Africa because the situation seems bad there. Or maybe it's also for those white countries that don't seem to have any internet since they have no data. |
@@ -84,16 +90,37 @@ With these two recommendations in mind, I decided to utilize Tableau for the fir
 The following were the main changes that were discussed with my peer during the in-class feedback session: 
 
 * **Color Scheme:** It was suggested that I use a sequential, monochromatic color scale instead of the current red-green diverging pattern. In their experience, my peer was accustomed to seeing red and green denote negative and positve values, respectively. Hence, they mentioned that it didn't make sense to use this divergence in a case where all the monetary values were positive. Furthermore, they said that it was difficult to differentiate the values of the various green-shaded countries, especially since majority of the map was green.
+
+<br />
+
 * **Chart Type**: They liked the map chart and said that it easily engaged viewers with the data. They also mentioned that a map allowed the user to locate countries that they are more familiar with and that they might find more interesting.
+
+<br />
+
 * **Data Labels:** My peer suggested that I add data labels to highlight some data points. They felt that, as is, the map is only useful if the user was engaged and explored the map; otherwise, the user might not take much info away about any country specifically, and only notice regional trends. Knowing that I also wanted to honor the original creator's callout of most/least expensive countries, my peer also suggested using data labels only for the most/least expensive countries. 
 
 ### Main Takeaways:
 
 * **Main Ideas:** All 3 individuals interviewed seemed to have an easy time understanding that the purpose of the data visualization was to illustrate the average cost of 1GB of data in different countries. They also seemed to quickly understand that prices are inequitable, especially for several countries within the African continent -- a point that I think the creator of the original infographic was trying to illustrate as well. While the original infographic also highlighted the 5 most expensive and 5 least expensive countries, this point wasn't clear to the viewers of my chart. While they could see the most expensive countries, it was harder for them to understand which countries were least expensive as a lot of countries' data fell within the lowest range.
+
+<br />
+
 * **Color:** While one individual liked the red-green divergence color scheme, the other two said they would have preferred a sequential, monochromatic pattern. The reasons for the red-green divergence was that green and red clearly showed less or more expense, respectively, and that it was a good way to indicate the inequity. The reasons against the red-green divergence was that it might overstate the difference between middle amounts and that some people might think that red indicates negative monetary values, which isn't the case with this data.
+
+<br />
+
 * **Chart Type:** Everyone seemed to appreciate the map as it helped viewers identify regional trends, allowed them to easily locate specific countries, and increased user engagement. However, some complained that the map was too small and suffered from lagging/glitching.
+
+<br />
+
 * **Key:** While individuals didn't initially mention anything about the key on their own, when asked about it, they did all state that it was unclear what values the colors were meant to represent. They all said that they would have preferred to know the ranges for each color instead of having to work backwards by comparing the map values to the color key. Additionally, one of the interviewers stated that the ranges for each color might be too broad for their preference.
+
+<br />
+
 * **Data Labels:** One individual stated that it would be helpful to have data labels for a quick understanding of some country prices. They stated that these data labels could even be utilized to highlight countries with the least/most expensive data as the original creator likely intended.
+
+<br />
+
 * **Missing/Unreliable Data:** First, countries with missing/unreliable data were greyed out but this color-coding was not explained in the key or a note. And this missing info led to confusion for one individual. Second, the chart didn't contain the name of countries for which data was missing/unreliable. Another individual said that they felt this information would still be helpful to note.
 
 
@@ -114,8 +141,24 @@ With the feedback from Step 4 in mind, I created the second draft of my re-desig
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-### Changes I Made:
+### Changes:
 
-In this draft, I changed the diverging red-green color scheme to a sequential, monochromatic color scheme. 
+* **Color:** I changed the color scheme to a sequential, monochromatic scale. While this still captures the regional trends and highlights the most expensive countries, I don't think it clearly highlights the least expensive countries. Also, a limitation to Tableau is that it automatically creates the sequentail color scale for map charts. This automation means that countries aren't shaded as precisely as the key implies. This situation means that viewers will likely still have a bit of a difficult time matching the colors of the key to the map and will still have to scroll to determine more precise values. 
+
+<br />
+
+* **Key:** Another limitation with Tableau is that I couldn't customize my own color key for the map chart. Hence, I had to create one manually in my computer's Paint software. I did take the colors from the automated key from Tableau, but (as previously stated) they don't quite match the colors on the map as Tableau's automated sequential coloring isn't adjustable to appear more stepped. 
+
+<br />
+
+* **Typography:** In the first draft, I didn't notice that I left the citation in bold. I didn't want to draw too much attention to that, so I unbolded the citation and just left the lable bold. Then, since I added the note about missing/unreliable data, I bolded the title so that it would stand out. I also ensured that the font size of the note was smaller so as to highlight the title more.
 
 ### Areas for Future Improvement:
+
+While some of the issues may have been due to my limited experience with Tableau, I think I would like to explore other data visualization softwares that would allow more customization. 
+
+**First**, I would have liked to create **a more stepped sequential color scheme** that would better match my key. I believe that improvements to the color and key will make it easier for the audience to perceive and understand values. 
+
+**Second**, I faced an issue on Tableau when adding **data labels for the most/least expensive countries**. For instance, Malawi was in the top 5 most expensive countries, but adding a data label made the chart feel cluttered given the size of Malawi; the label was so big that it would span several countries even when the viewer was zoomed in a lot. Hence, I would like to find a way that would allow the data label to not be directly over the map; instead, it could be like a callout with a line connecting it to the country (similar to the chart we studied in the last critique about vacation days). I would only have labels for the top/bottom 3-5 countries so that it wouldn't feel too crowded. My only qualm with this idea is whether or not it would be clear that those were the most/least expensive countries or if an additional note would be required. 
+
+**Third**, if data were available (and I had a lot of time), I do think it would be interesting to **create regional breakdowns** for some of the bigger countries (e.g., the USA, Russia, China, etc.). Since 2/3 of those intereviewed said they'd like more information, I figure that so would others. I appreciate that this map chart was engaging enough to elicit more interest in country-specific data. Hence, I would like to try and provide that. For instance, if you clicked on (or zoomed into) the USA, it would be nice to have average prices listed by states as well. 
