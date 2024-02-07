@@ -98,3 +98,16 @@ The following were the main changes that were discussed with my peer during the 
 
 
 ## Step 5: Build the Re-design
+
+<div class='tableauPlaceholder' id='viz1707264252934' style='position: relative'><noscript><a href='#'><img alt='What Does 1GB of Mobile Data Cost by Country?Note: Countries with missing data (or unreliable currency conversions) are represented in grey. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NX&#47;NXN6553JW&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;NXN6553JW' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NX&#47;NXN6553JW&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1707264252934');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+<img width="186" alt="image" src="https://github.com/melanini13/Portfolio-MCDIAZ/assets/156854497/5abe605c-f955-4a21-823c-152db80fabd5">
