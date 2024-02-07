@@ -124,9 +124,9 @@ The following were the main changes that were discussed with my peer during the 
 * **Missing/Unreliable Data:** First, countries with missing/unreliable data were greyed out but this color-coding was not explained in the key or a note. And this missing info led to confusion for one individual. Second, the chart didn't contain the name of countries for which data was missing/unreliable. Another individual said that they felt this information would still be helpful to note.
 
 
-## Step 5: Build the Re-design
+## Step 5: Build the Redesign
 
-With the feedback from Step 4 in mind, I created the second draft of my re-design: 
+With the feedback from Step 4 in mind, I created the second draft of my redesign: 
 
 <img width="186" alt="image" src="https://github.com/melanini13/Portfolio-MCDIAZ/assets/156854497/5abe605c-f955-4a21-823c-152db80fabd5">
 
