@@ -66,6 +66,7 @@ Note: The title of this chart will be updated to be more conclusive of what the 
 <br>
 
 <img width="417" alt="image" src="https://github.com/melanini13/Portfolio-MCDIAZ/assets/156854497/0bc21ba2-809c-44cd-83ab-30727e00a86d">
+
 Note: As previously metioned, I will use a section header (e.g., School X vs. School Y) and then provide a title per chart. As of now, I think I will list the race within the treemap tile itself, but I may also need to create a color legend depending on how small some of the tiles end up being with the real data.
 
 
