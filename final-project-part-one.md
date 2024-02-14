@@ -45,23 +45,35 @@ In class, we conducted a process to help us brainstorm an outline for our projec
 
 I think that people will start a bit above neutral because the aggregated PPS data seems to look better overall. However, I think that the majority of people are still aware about inequitable K-12 outcomes and will still be skeptical. Then, when we start to get into the school-site comparisons, I think that they will become pretty concerned, especially if the inequities do compound upon certain school-sites. Moving toward the call-to-aciton, however, should bring people's spirits back up to at least neutral as there are some policy changes that can be implemented to solve these issues -- usually all that's needed is the data to prove that a problem exists to begin with. Whlie back to neutral, I do think that people will still feel a bit lower than they were at the start. I think this because I will also mention that although we may see correlation, correlation isn't causation. So, while we can implement thse fixes, PPS still needs to start do larger data comparisons between school sites to prove causation. Even with the policy implementation, if we've misidentified the causes, then inequities will still persist. Hence the audience may leave feeling more unsettled than they felt at the start -- but hopefully not terribly afraid/upset.
 
-## Initial sketches 
+## Initial Sketches 
 
 <img width="415" alt="image" src="https://github.com/melanini13/Portfolio-MCDIAZ/assets/156854497/506fde84-24c2-4e55-82e9-5fcc66edb2eb">
 
+Note: I plan to utilize the dual axis feature to create overlapping map charts and simultaneously illustrate both attedance rates and Math 9 pass rates. This tactic will hopefully clarify if these issues are correlated and if they are inequitably impacting certain neighborhood school sites. <br>
+
+<br>
+
 <img width="424" alt="image" src="https://github.com/melanini13/Portfolio-MCDIAZ/assets/156854497/e0a8665e-b060-4211-962e-8e8e558b1b6d">
+
+Note: I am unsure if utilizing two graphs under one title is a good idea. Instead I might create a section heading that says "Historical Evidence for Inequity" and then create two independent titles for each chart that more accurately provides a summary for the data. This change will be especially important if the two issues are not necessarily correlated. There may still be inequity with just one. 
+
+<br>
 
 <img width="416" alt="image" src="https://github.com/melanini13/Portfolio-MCDIAZ/assets/156854497/d8fc915d-1c15-4972-8356-1b48e3f65131">
 
+Note: The title of this chart will be updated to be more conclusive of what the data states (e.g., Absence Rates Seem to Negatively Impact Graduation Rates). Also, I think I will be including the 6-12 neighborhood schools, so there will be more data points. I might even color-code the data by neighborhood region instead of highlighting the worst performers (as I initially did in this chart); the national average line will already show how many scores are performing below so color-coding to separate low from high performers isn't as helpful. Instead, if the story is about neighborhood impact, that is what the color-code should focus on.
+
+<br>
+
 <img width="417" alt="image" src="https://github.com/melanini13/Portfolio-MCDIAZ/assets/156854497/0bc21ba2-809c-44cd-83ab-30727e00a86d">
+Note: As previously metioned, I will use a section header (e.g., School X vs. School Y) and then provide a title per chart. As of now, I think I will list the race within the treemap tile itself, but I may also need to create a color legend depending on how small some of the tiles end up being with the real data.
 
 
-
-# The data
+# The Data
 
 Fortunately, PPS has an extensive and publicly available database. From the table below, the first three data sources contain district-level and school-level views. All three sources also have the ability to disaggregate the data by student demographic (e.g., IEP status, ELL status, race, economic status, and gender). However, only the cohort graduation rate data source has the ability to do a school comparison view. The limitation, however, is that the comparison is conducted via side-by-side charts for each school and there is no ability to modify it in relation to the other data sources as I intend to do.
 
-To start with, I will need to use the School Site Address data source to get an understanding of what PPS designates as the 4 neighborhood regions. On this source, I am able to see which district the schools are in. I might be able to better report the locations of the neighborhoods. For instance, this crosscheck might allow me to report the regions with mention of neighborhood or district. 
+To start with, I will need to use the School Site Address data source to get an understanding of what PPS designates as the 4 neighborhood regions. On this source, I am able to see which district the schools are in. I might be able to better report the locations of the neighborhoods. For instance, this crosscheck might allow me to report the regions with mention of neighborhood. Furthermore, I will need the addresses to create the geographical data necessary for my map chart.
 
 Next, I will be using the Algebra 1 Pass Rate and Attedance rate data sources together to 1) see if these two metrics are correlated and 2) identify any inequity by neighborhood region/district. Right now, the data doesn't provide school comparisons, but I will be utilizing the data from several high schools on one chart to gain an understanding of equitable outcomes amongst the neighborhood school sites. As for the cohort graduation rates data source, I will combining this data source with that of the attendance rates to see if these two metrics are correlated. Currently the graduation data does have a school comparison tool, but I will be using the data from several schools on one chart, which is not a current capability on the PPS website. 
  
@@ -74,7 +86,7 @@ Next, I will be using the Algebra 1 Pass Rate and Attedance rate data sources to
 |School Site Address|[https://app.guidek12.com/pittsburghpa/school_search/current/](https://app.guidek12.com/pittsburghpa/school_search/current/)|This source provides the addresses for each school site and also shows which district that they reside in.]
 
 
-# Method and medium
+# Method and Medium
 To create the charts, I intend to use Tableau as it is the software that I am most comfortable with so far. It is possible that I might also utilize Canva as a way to modify the charts that I make. For instance, as there is little customization of the Tableau keys/legends, I might utilize Canvas to create these aspects that accompany the chart. Last, I plan to present my charts via Shorthand because I believe that it is a more dynamic medium that will better engage my audience (as opposed to a static website display).
 
 # Citations
