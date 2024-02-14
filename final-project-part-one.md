@@ -1,6 +1,8 @@
 | [home page](README.md) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Background
+# Final Project: Part 1
+
+## Background
 
 *"Where your student goes to high school matters. For a quality education, send your student to a school in a, b, or c neighborhood. And, no matter what, make sure that they don't attend a school in x, y, or z neighborhood."*
 
@@ -9,7 +11,7 @@ Growing up in the Los Angeles Unified Public School District, it was common to h
 When selecting my project, I was really interested in studying Pittburgh Public Schools (PPS). In my preliminary research, I found an article by A+ Schools Pittsburgh which stated the following:
 *"By the time students get to high school, we see stark differences in who’s enrolling in what type of school. In Pittsburgh, the vast majority of Black and Brown PPS students attend neighborhood high schools (many of which have partial magnet programs)."*<sup>1</sup> This statement, along with my experience as a high school teacher, I decided to look into PPS high school data more specifically. Upon reviewing the data, PPS actually does a good job of providing aggregrate data via dashboards and it also does a good job of providing school-site specific information. However, I thought it was interesting that there wasn't really a way to compare data between the district's school sites specifically. Since the default in PPS is to assign students to neighborhood schools, it is important to have a way to check that school sites have equitable student outcomes. Because, if they don't perform equitably, then the PPS default may be encouraging inequitable student outcomes. 
 
-# Outline 
+## Outline 
 
 While the PPS site contains several data sources, I think that it will be best to analyze equity in relation to attendance rates, Math 9 pass rates, graduation rates, and student demographics. I presume that attendance rates will have a negative correlation with graduation rates and Math 9 rates. The logic behind this assumption is that missing more class will negatively impact students' academic performance, which will be represented by Math 9 pass rates and graduation rates. After providing some background info (as included above), the rest of the project outline is as follows:
 
@@ -23,7 +25,7 @@ The purpose of the concluding chart would be to personalize the data by illustra
 
 While correlation doesn't lead to causation, I think there may be an argument that attendance rates and Math 9 pass rates might be areas of concern in regards to inequity. Therefore, the call-to-action, will be to focus on solutions for these two issues. For instance, the fact that PPS has an online school means that there may be an alternative pathway for students with high absentee rates. Additionally, math supports (e.g., establishing math intervention classes; improved teacher training, etc.) could be a good solution at those school sites that are most impacted.
 
-## In-Class Activity: Telling Your Story with Data
+### In-Class Activity: Telling Your Story with Data
 
 In class, we conducted a process to help us brainstorm an outline for our project. Below, I have provided my responses to this activity, and I hope that it will provide more depth into the outline for my project. 
 
@@ -51,26 +53,20 @@ I think that people will start a bit above neutral because the aggregated PPS da
 
 Note: I plan to utilize the dual axis feature to create overlapping map charts and simultaneously illustrate both attedance rates and Math 9 pass rates. This tactic will hopefully clarify if these issues are correlated and if they are inequitably impacting certain neighborhood school sites. <br>
 
-<br>
-
 <img width="424" alt="image" src="https://github.com/melanini13/Portfolio-MCDIAZ/assets/156854497/e0a8665e-b060-4211-962e-8e8e558b1b6d">
 
 Note: I am unsure if utilizing two graphs under one title is a good idea. Instead I might create a section heading that says "Historical Evidence for Inequity" and then create two independent titles for each chart that more accurately provides a summary for the data. This change will be especially important if the two issues are not necessarily correlated. There may still be inequity with just one. 
 
-<br>
-
 <img width="416" alt="image" src="https://github.com/melanini13/Portfolio-MCDIAZ/assets/156854497/d8fc915d-1c15-4972-8356-1b48e3f65131">
 
 Note: The title of this chart will be updated to be more conclusive of what the data states (e.g., Absence Rates Seem to Negatively Impact Graduation Rates). Also, I think I will be including the 6-12 neighborhood schools, so there will be more data points. I might even color-code the data by neighborhood region instead of highlighting the worst performers (as I initially did in this chart); the national average line will already show how many scores are performing below so color-coding to separate low from high performers isn't as helpful. Instead, if the story is about neighborhood impact, that is what the color-code should focus on.
-
-<br>
 
 <img width="417" alt="image" src="https://github.com/melanini13/Portfolio-MCDIAZ/assets/156854497/0bc21ba2-809c-44cd-83ab-30727e00a86d">
 
 Note: As previously metioned, I will use a section header (e.g., School X vs. School Y) and then provide a title per chart. As of now, I think I will list the race within the treemap tile itself, but I may also need to create a color legend depending on how small some of the tiles end up being with the real data.
 
 
-# The Data
+## The Data
 
 Fortunately, PPS has an extensive and publicly available database. From the table below, the first three data sources contain district-level and school-level views. All three sources also have the ability to disaggregate the data by student demographic (e.g., IEP status, ELL status, race, economic status, and gender). However, only the cohort graduation rate data source has the ability to do a school comparison view. The limitation, however, is that the comparison is conducted via side-by-side charts for each school and there is no ability to modify it in relation to the other data sources as I intend to do.
 
@@ -87,10 +83,10 @@ Next, I will be using the Algebra 1 Pass Rate and Attedance rate data sources to
 |School Site Address|[https://app.guidek12.com/pittsburghpa/school_search/current/](https://app.guidek12.com/pittsburghpa/school_search/current/)|This source provides the addresses for each school site and also shows which district that they reside in.]
 
 
-# Method and Medium
+## Method and Medium
 To create the charts, I intend to use Tableau as it is the software that I am most comfortable with so far. It is possible that I might also utilize Canva as a way to modify the charts that I make. For instance, as there is little customization of the Tableau keys/legends, I might utilize Canvas to create these aspects that accompany the chart. Last, I plan to present my charts via Shorthand because I believe that it is a more dynamic medium that will better engage my audience (as opposed to a static website display).
 
-# Citations
+## Citations
 1. "Segregation in Pittsburgh Public Schools: How Inequities Persist," A+ Schools Pittsburgh, 2021, accessed 7 February 2020, [https://www.ourschoolspittsburgh.org/segregation-in-pittsburghs-schools](https://www.ourschoolspittsburgh.org/segregation-in-pittsburghs-schools).
 2. "Discover PPS," Pittsburgh Public Schools, n.d., accessed February 9 2023, [https://discoverpps.org/](https://discoverpps.org/).
 3. "Board Districts," Pittsburgh Public Schools, n.d., accessed February 9 2023, [https://www.pghschools.org/Page/1309#:~:text=The%20city%20of%20Pittsburgh%20is%20divided%20into%209%20districts%20for%20board%20representation.](https://www.pghschools.org/Page/1309#:~:text=The%20city%20of%20Pittsburgh%20is%20divided%20into%209%20districts%20for%20board%20representation.)
