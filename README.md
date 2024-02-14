@@ -25,10 +25,12 @@ Moving forward, these skills will play a pivotal role in my professional work as
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-(This assignment is still in progress. It will be added soon.) 
 
 ## Final project: 
-(This assignment is still in progress. A high-level description of my final project will be added here soon.) 
+Conducting a school comparison of Pittsburgh Public Schools to ensure equitable educational outcomes for all students.
+
 [Part I](final-project-part-one)
+
 [Part II](final-project-part-two)
+
 [Part III](final-project-part-three)
