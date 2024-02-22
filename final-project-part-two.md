@@ -1,41 +1,49 @@
 | [home page](README.md) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+For the storyboard, I moved directly to Shorthand. Please view my preivew of my Shorthand webpage here: [Does School Performanc Change by Neighborhoods?](https://preview.shorthand.com/gAQTHDdHBp1epJAx)
 
 # User research 
 
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+When I created my storyboard and planned my interview process, I intended for my audience to be education policymakers. I believed that this audience would not only care about educational equity, but that they would have the most power to alter circumstances if inequity did prove to exist. Basically, I wanted an audience that would be able to enforce my calls-to-action. Therefore, it was important to me to get insight from peoople working in the fields of education and/or public policy.
+
+As a former educator myself, I knew that the concepts would interest others in the field. However, I wasn't sure how to properly convey the data via intuitive and logical visualizations. Hence, it was also important to me that at least one of my interviewees had a strong data anlysis and quantitative background.
+
+With these considerations in mind, I selected 3 interviewees: a Title I coordinator at a K-5 school, a grad student in Information Security Policy, and a grad student in Information Systems -- Business and Data Analytics track.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
-
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|Determine if the structure/style/tone matches the intended audience.|Who do you think would be the target audience for this webpage? *follow up:* If the webpage is intended for policymakers, do you have any recommendations for what should be removed, addded, or altered?|
+|Determine if the narrative structure is eliciting the intended emotions.|What were some feelings that you had while navigating through the webpage? Were there any specific moments that stood out? If so, what elements elicited those emotions?|
+|Determine the effectiveness of the design and organization of the geographical maps about chronic absenteeism and algebra 1 pass rates.|Is the coloring or sizing confusing or helpful in your understanding of the main takeaways? *follow up:* Did you feel that this side-by-side organization helped or hindered your understanding of the main takeaways? If it hindered your understanding, is there an organization that you would find more helpful?|
+|Determine the effectiveness of the call-to-action in light of the provided narrative and datapoints.|In your opinion, is the call-to-action section reasonable or adequate in response to the data and the narrative?|
+|Ensure that I elicit general feedback in case there are elements that are helpful or confusing that I didn't consider.|Do you have any general feedback before we get into specific questions?| 
 
+For the charts, I was more focused on the geographical maps because I felt that they were the ones I had the most trouble with. While my other charts are more basic (and, therefore, more intuitive to understand), these geographical maps were difficult because I felt that I was using the same structure to represent two different messages: big, dark circles were negative for chronic absenteeism but positive for Algebra I pass rates. While I tried to account for this by chooseing different colors and making clear titles, I still found myself getting confused. Hence, I needed outside input to figure out a way to improve the design.
 
-Text here!
+Ironically, I found that the narrative was actually the part that I was most worried about. While I assumed that the narrative would appeal to the educator, I wasn't sure if it would have the same interest or intrigue for the policy students. I figured that even if the data visualizations were okay, the narrative might not hold the same weight for them. Therefore, a lot of questions ended up being about the story that I was trying to tell about the data more so than the data elements themselves. I think the fact that I kept most of my graphs pretty familiar/basic (line graphs and scatterplots, meant that there would be less confusion about those elements. Instead, I was more concerned with the connection between the narrative structure and the data. 
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Title I Coordinator at a K-5 School, 54| Grad Student in Information Security Policy, 26| Grad Student in Information Systems: Business & Data Analytics Track, 26|
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
+|Do you have any general feedback before we get into specific questions?|I really enjoyed the colorful start because it was engaging and captured my attention. While at first I was confused about all of the colors on the Pittsburgh map, I was qucikly relieved and impressed by the focus on each neighborhood section with the color; it was like they knew the question I had before I had it. Overall, I was left wondering more. The story was interesting and informative, but it led me with many more questions about the district. I also wish that the last Tableau chart wasn't so huge. It takes up the whole screen and I can't see the context alongside it.|There's too to read. Also, the geographical maps were a bit hard to read and I think I could have used a scatterplot in that section to see if there was a trend. Even if there wasn't, that's important to see too. And, this may be out of the scope, but I'd like to know why some of the schools, like Allderdice, are performing much worse. Maybe that can be mentioned as a further research step.|There is a lot of discussion that I don't think you need. The limitations about PPS data don't seem relevant, unless this is a problem statement for some reason. On the other hand, I really liked the quote; they were very impactful for your story. I was really upset about the chart showing historical data on attendance; the need to scroll up and down just annoyed me as a user. Please fix that chart; it was a very sad chart.|
+|ho do you think would be the target audience for this webpage? *follow up:* If the webpage is intended for policymakers, do you have any recommendations for what should be removed, addded, or altered?|I think this is for the Pittsburgh community, specifically educators and families with children high school or about to enroll. *Follow-up:* I don't actually think that the policymakers would be really familiar with what these schools are facing on a district level, let alone an individual level. So, they might need much more contextual information. For instance, they might need to know what curriculum is being used or what underlying factors are contributing to the chronic absenteeism. Policymakers might get stuck on these issues without that context, and you'll lose them.|I'm confused because I think it's for policymakers but it reads like an academic paper. *follow up:* I think the tone of the writing should be less exploratory. Just tell them what you need them to know.|It feels like an academic paper, but it is also informative. The call-of-action also feels disperse. I'd say policymakers, but maybe it's the district itself. *follow up:* Be more authoritative in your approach. And, if the audience isn't PPS, then you don't really need to talk about limitations; instead, you can discuss the available data and explain how it was combined to be where you're at. Keep that to 1-2 sentences.|
+|What were some feelings that you had while navigating through the webpage? Were there any specific moments that stood out? If so, what elements elicited those emotions?|It was very surprising to me that absenteeism wasn't a major influence for some of the schools' results. I paid more attention to the writing than the chart. I'm not really a chart person and it was a bit difficult to figure out. I was also surprised about enrollment because it wasn't something I thought about but once it was mentioned, it made so much sense. I'm glad they had the chart to show that pattern.|I was surprised that more instructional time didn't lead to better performance, and I was left wondering why. But, then you say it could be an equity issue and that's not explained. So, then I felt like something was missing and I also was left without answers. You should addresss the root cause if you mention that because policymakers might not intuitively know.|I really liked the first quote because it was so relatable. I grew up in California and I was like, "Yeah, I remember hearing things like that too!"|
 |                         |                                |             |             |
 |                         |                                |             |             |
+|                         |                                |             |             |
+
 
 
 # Identified changes for Part III
