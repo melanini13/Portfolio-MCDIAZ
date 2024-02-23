@@ -1,13 +1,12 @@
 | [home page](README.md) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
+# Wireframes / Storyboards
 
-For the storyboard, I moved directly to Shorthand. Please view my preivew of my Shorthand webpage here: [Does School Performanc Change by Neighborhoods?](https://preview.shorthand.com/gAQTHDdHBp1epJAx)
+For the storyboard, I moved directly to Shorthand. Please visit the preview version of my Shorthand webpage here: [Does School Performanc Change by Neighborhoods?](https://preview.shorthand.com/gAQTHDdHBp1epJAx)
 
-# User research 
+# User Research 
 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+## Target Audience 
 
 When I created my storyboard and planned my interview process, I intended for my audience to be education policymakers. I believed that this audience would not only care about educational equity, but that they would have the most power to alter circumstances if inequity did prove to exist. Basically, I wanted an audience that would be able to enforce my calls-to-action. Therefore, it was important to me to get insight from peoople working in the fields of education and/or public policy.
 
@@ -15,8 +14,7 @@ As a former educator myself, I knew that the concepts would interest others in t
 
 With these considerations in mind, I selected 3 interviewees: a Title I coordinator at a K-5 school, a grad student in Information Security Policy, and a grad student in Information Systems -- Business and Data Analytics track.
 
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+## Interview Script
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -30,10 +28,7 @@ For the charts, I was more focused on the geographical maps because I felt that 
 
 Ironically, I found that the narrative was actually the part that I was most worried about. While I assumed that the narrative would appeal to the educator, I wasn't sure if it would have the same interest or intrigue for the policy students. I figured that even if the data visualizations were okay, the narrative might not hold the same weight for them. Therefore, a lot of questions ended up being about the story that I was trying to tell about the data more so than the data elements themselves. I think the fact that I kept most of my graphs pretty familiar/basic (line graphs and scatterplots, meant that there would be less confusion about those elements. Instead, I was more concerned with the connection between the narrative structure and the data. 
 
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
+## Interview Findings
 
 | Questions               | Title I Coordinator at a K-5 School, 54| Grad Student in Information Security Policy, 26| Grad Student in Information Systems: Business & Data Analytics Track, 26|
 |-------------------------|--------------------------------|-------------|-------------|
@@ -46,25 +41,25 @@ Text here!
 ## In-Class Critique Findings
 
 * **Geographic Maps:** The colors are confusing; while you risk the Christmas effect, a red-green spectrum would likely work better, especially in terms of comparisons. Also, the ranges should actually be the same on each chart; currently, they are different, which makes it even more difficult to compare because the sizes aren't consistent. Hence, you run into accuracy/truth issues.
+  
 * **PPS Neighborhoods:** Currently, the scrollmotion isn't having the impact you intended. Since the images aren't properly aligning with the text, the viewer can't really figure out which schools are in which neighborhoods. Also, I  the South neighborhood doesn't even appear. Instead, you can try using the Scrollpoints feature so that you can highlight each neighborhood based on one map. This will provide a better effect.
+  
 * **Additional Data:** With the current data, it does seem like this isn't the determining factor. Maybe something about demographics should be considered so that you can better determine the issue and make a better call-to-action.
 
 Based on the in-class critique, I was able to make some adjustments before conducting my interviews:
 
 1. It was a quick fix to sub the scrollpoints feature for the scrollmation feature. This allowed me to more clearly illustrate the PPS neighborhoods and list the schools for each. This improvement actually received good reviews in the interview section.
-2. Next, I also took the step of looking into demographic information. This is when I noticed the stark differences in enrollment size. While I would have liked to also do a more in-depth breakdown (e.g., ELL status, IEP status, race, and socioeconomic status), I didn't have enough time to make this change. I'm not sure I'll be able to do this in my final version, but I do think that it would be a great addition for further analysis. It could be that the East schools with lower performance is actually due to a lack of other, non-math related supports (e.g., ELL supports or Special Education teachers).
    
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+3. Next, I also took the step of looking into demographic information. This is when I noticed the stark differences in enrollment size. While I would have liked to also do a more in-depth breakdown (e.g., ELL status, IEP status, race, and socioeconomic status), I didn't have enough time to make this change. I'm not sure I'll be able to do this in my final version, but I do think that it would be a great addition for further analysis. It could be that the East schools with lower performance is actually due to a lack of other, non-math related supports (e.g., ELL supports or Special Education teachers).
+   
+# Identified Changes for Part III
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
+| Research Synthesis                       | Anticipated Changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 |The geographical maps were not clear in their message.|I am going to change these maps to have a red-green scale and they will be reversed (e.g., red small circles on the algebra chart and red, big circles on the chronic absenteeism chart). I will also make it so that the data labels are cohesive between the two charts so that comparisons are accurate. I will likely make the ranges as follows: 0-25%, 26-50%, 51-75%, and 76-100%. This will also account for the issue of missing units, which confused my first interviewee.|
 |The target audience may not be correctly identified (or it's unclear).|After my interviews, I also thought that policymakers might not be the correct audience here. This audience would be too broad and probably wouldn't have the authority (or interes) in fixing the PPS district specifically. Hence, I think my audience really is the PPS district. After all, this is the party that would be able to conduct further research comparing school sites and to fund more resources for schools. With this in mind, I will be changing the tone to be less academic/exploratory and more authoritative.|
 |The historical chronic absenteeism chart isn't user friendly.|I think this just requires me spending more time trying to condense the chart on Tableau. Or I can figure out if Shorthand has a way to lengthen the embedded chart.|
 |The trend of the geographical maps is unclear.|In addition to changing the maps' color scheme, the addition of a scatterplot will help to show that the correlation between absenteeism and Algebra performance is actually much weaker than originally assumed.|
 |There is no transition between the last chart takeaway and the call-to-action.|I want to add a conclusion section to wrap up and make it clear what the findings are. This would definitely help orient the district reps right before I lead into the call-to action.|
-|The call-to-action is currently too weak and not fleshed out enough.|I need to be clear about expecting PPS to take action, and I need to provide more concrrete action items. For instance, I can discuss specific Algebra 1 supports that can be added. Or for research, I can discuss a comparison of curricula currently in use.|
+|The call-to-action is currently too weak and not precise enough.|I need to be clear about expecting PPS to take action, and I need to provide more concrrete action items. For instance, I can discuss specific Algebra 1 supports that can be added. Or for research, I can discuss a comparison of curricula currently in use.|
 
